@@ -1,0 +1,189 @@
+# LLM Content Creation Rules: Buying Cycle Framework
+
+Use these rules to create content appropriately tailored to each stage of the buying cycle:
+
+## STEP 1: IDENTIFY THE INTENDED AUDIENCE
+
+Before creating any content, gather the following information:
+
+**Target Audience Definition:**
+- What industry or industries are you targeting?
+- What role(s) or job titles are you addressing? (e.g., CFO, Marketing Manager, IT Director)
+- What is the company size? (e.g., SMB, Mid-Market, Enterprise)
+- What is the geographic location or region?
+- What specific pain points or challenges does this audience face?
+- What are their goals and aspirations?
+
+**Current Buyer Stage:**
+- Which buying cycle stage is this audience in? (Unaware to Aware, Aware to Interested, Interested to Evaluating, or Evaluating to Purchase)
+- What behaviors or signals indicate they are in this stage?
+
+**Context and Prior Interactions:**
+- What content have they previously engaged with?
+- What actions have they taken? (downloaded resources, attended webinars, requested demos, etc.)
+- What information do you have about their specific situation?
+
+**Content Objectives:**
+- What is the primary goal of this content?
+- What action do you want the audience to take after consuming it?
+- How does this content fit into the broader content strategy?
+
+---
+
+## Stage 1: UNAWARE TO AWARE
+
+**Industry and Role Problem Focus:** High focus, low detail
+- Address broad industry challenges without deep specifics
+- Highlight universal pain points relevant to the target role
+
+**Prospect-Specific Problem Focus:** None
+- Keep content general, not tailored to individual prospects
+
+**Vendor and Product Focus:** None
+- Do not mention your product, service, or company solutions
+- Stay educational and industry-focused
+
+**Personalization:** Mass personalization
+- Create content suitable for wide audiences within target segments
+- No individual customization required
+
+**Triggers:** High emotional, low rationale
+- Appeal to emotions: frustration, aspiration, curiosity
+- Minimize data-heavy or logical arguments
+- Use compelling narratives and relatable scenarios
+
+**Time Commitment:** Under 10 seconds
+- Keep content scannable and immediately digestible
+- Front-load key insights
+
+**Content Types:** Posts, infographics, short videos
+- Social media posts (LinkedIn, Twitter, etc.)
+- Visual infographics with key statistics
+- Short-form video (under 60 seconds)
+
+---
+
+## Stage 2: AWARE TO INTERESTED
+
+**Industry and Role Problem Focus:** High focus, medium detail
+- Expand on industry challenges with more context
+- Provide frameworks and approaches to thinking about problems
+
+**Prospect-Specific Problem Focus:** None
+- Continue with general applicability across the segment
+
+**Vendor and Product Focus:** Low
+- May subtly introduce your perspective or methodology
+- Avoid explicit product pitches
+
+**Personalization:** Mass personalized with data-driven intelligence
+- Leverage insights from previous interactions (downloads, clicks, engagement)
+- Segment content based on behavioral data
+- Tailor messaging to demonstrated interests
+
+**Triggers:** High emotional, medium rationale
+- Balance emotional resonance with supporting logic
+- Introduce credible data and frameworks
+- Maintain engaging storytelling with evidence
+
+**Time Commitment:** Under 5 minutes
+- Allow for slightly deeper engagement
+- Structure for easy scanning with key takeaways
+
+**Content Types:** Reports, e-books, diagnostic tools, webinars
+- In-depth reports on industry trends
+- Educational e-books providing frameworks
+- Self-assessment or diagnostic tools
+- Educational webinars (not product-focused)
+
+---
+
+## Stage 3: INTERESTED TO EVALUATING
+
+**Industry and Role Problem Focus:** High focus, high detail
+- Provide comprehensive analysis of challenges
+- Offer detailed methodologies and best practices
+- Include specific examples and deep insights
+
+**Prospect-Specific Problem Focus:** Low
+- Begin acknowledging specific scenarios prospects face
+- Include relevant use cases without full customization
+
+**Vendor and Product Focus:** Medium
+- Introduce how solutions like yours address problems
+- Position your approach alongside alternatives
+- Focus on solution categories, not just your product
+
+**Personalization:** Mass personalization or light customization
+- Create multiple content variations for different personas or use cases
+- Consider basic firmographic customization (industry, company size)
+- May include some prospect-specific elements
+
+**Triggers:** Medium emotional, medium rationale
+- Balance emotional appeal with logical evaluation
+- Provide concrete evidence and proof points
+- Support decision-making with data and reasoning
+
+**Time Commitment:** Under 20 minutes
+- Allow for substantive engagement
+- Provide depth while maintaining clarity
+
+**Content Types:** Case studies, testimonials, product reviews, comparison charts, discovery calls
+- Detailed case studies with results
+- Customer testimonials and success stories
+- Third-party product reviews
+- Feature/solution comparison charts
+- Consultative discovery calls to understand needs
+
+---
+
+## Stage 4: EVALUATING TO PURCHASE
+
+**Industry and Role Problem Focus:** Low focus, low detail
+- Assume problem understanding is established
+- Focus on solution and implementation specifics
+
+**Prospect-Specific Problem Focus:** High
+- Address exact challenges this prospect faces
+- Customize to their specific situation and requirements
+- Reference their stated needs and context
+
+**Vendor and Product Focus:** High
+- Fully highlight your product capabilities
+- Demonstrate exact fit for their requirements
+- Provide detailed product information and pricing
+
+**Personalization:** Hyper-personalized
+- Fully customize to the individual prospect
+- Reference specific conversations, needs, and context
+- Tailor every element to their situation
+
+**Triggers:** Low emotional, high rationale
+- Emphasize logical decision factors
+- Provide detailed justification and ROI
+- Focus on specifications, pricing, terms, and implementation
+- Support procurement and approval processes
+
+**Time Commitment:** Under 60 minutes
+- Allow for detailed review and evaluation
+- Provide comprehensive information for decision-making
+
+**Content Types:** Trial/demo, ROI calculator, references, consultant event, analysis/audit, proposal
+- Free trials or product demonstrations
+- ROI or value calculators customized to their scenario
+- Customer references (similar companies/situations)
+- Consultant-led workshops or planning sessions
+- Custom analysis or audit of their current state
+- Formal proposals with pricing and terms
+
+---
+
+## Application Guidelines
+
+When creating content, always:
+1. **Start with Step 1** - Fully understand the intended audience before proceeding
+2. **Identify the stage** the target audience is in
+3. **Apply all parameters** for that stage (focus levels, personalization, triggers, time commitment)
+4. **Select appropriate content format** from the stage's content types
+5. **Maintain consistency** across all parameters for cohesive messaging
+6. **Never skip stages** - respect the natural progression of buyer awareness and readiness
